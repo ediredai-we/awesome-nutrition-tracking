@@ -44,6 +44,11 @@ Free and paid nutrition trackers.
 - [NOMS](https://nomsbot.com/) - Telegram bot and mini app that logs meals from a photo, voice note, or text description; tracks calories, macros, and fiber in 13 languages.
 - [Noom](https://www.noom.com/) - Expensive, CBT-based nutrition and health mobile app.
 - [Nutilz Calorie Deficit Calculator](https://nutilz.com/calorie-deficit-calculator) - Free web calculator for daily calorie deficit/surplus based on TDEE, goal weight, and activity level. No signup required.
+- [Nutrion] (https://nutrion.donnoweb.com.br/) - Photo-based calorie tracking. The AI names regional dishes correctly in 11 languages, not just American food.
+Most photo-based trackers were trained mainly on US food — photograph a
+risotto and you get "rice with cheese". Nutrion sends the user's language
+and region with the photo so the model returns the dish under the name
+people actually use. Android (TWA) and web, freemium.
 - [NutriScan](https://nutriscan.app) - AI calorie and macro tracker mobile app that logs meals from a photo, voice note or typed text and gives each an A to E meal grade.
 - [NutritionX](https://www.nutritionix.com/app) - Nutrition tracking mobile app.
 - [Olivka](https://olivka.app/) - Calorie and macro tracking over WhatsApp, Messenger, Telegram, and Instagram from a photo, voice note, or text. English and Polish.
